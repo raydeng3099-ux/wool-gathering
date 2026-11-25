@@ -521,5 +521,24 @@
     "discovered_at": "2026-11-25",
     "last_seen": "2026-11-25",
     "status": "active"
+  },
+  {
+    "id": "crystalz-lv-17-1-pudone-https-8d431e5e49",
+    "title": "crystalz\n\nLv.17\n几个私藏极品小网站，希望永久有效\n1、pudone! - 实用有趣的工具精选https://pudone.com/zh功能超丰富的在线工具百宝箱。集合了 200+ 实用",
+    "category": "open-source",
+    "source_url": "https://xiaoheihe.cn/app/bbs/link/197466977",
+    "claim_url": "https://xiaoheihe.cn/app/bbs/link/197466977",
+    "start_date": "2026-11-25",
+    "end_date": null,
+    "value": "",
+    "requirements": [],
+    "description": "小黑盒社区帖子 | open-source",
+    "tags": [
+      "小黑盒",
+      "open-source"
+    ],
+    "discovered_at": "2026-11-25T00:00:00.000000+08:00",
+    "last_seen": "2026-11-25",
+    "status": "active"
   }
 ]

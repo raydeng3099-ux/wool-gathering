@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-25T15:52:06.808275+08:00",
+  "generated_at": "2026-11-25T16:58:54.521419+08:00",
   "today": "2026-11-25",
   "repository": "raydeng3099-ux/wool-gathering",
-  "total": 171,
+  "total": 174,
   "by_category": {
     "ai": {
       "total": 45,
@@ -11,14 +11,14 @@
       "ended": 0
     },
     "open-source": {
-      "total": 27,
-      "active": 27,
+      "total": 28,
+      "active": 28,
       "upcoming": 0,
       "ended": 0
     },
     "drive": {
-      "total": 9,
-      "active": 9,
+      "total": 11,
+      "active": 11,
       "upcoming": 0,
       "ended": 0
     },
