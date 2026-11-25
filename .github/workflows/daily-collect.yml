@@ -70,13 +70,13 @@ jobs:
       - name: 运行收集脚本
         env:
           TZ: Asia/Shanghai
-          # AI 主力：ChatAnywhere gpt-6.1-sol（2026-11-15 实测 19 个模型可用，此模型 JSON 最稳、相对日期最准）
-          #   国内接入点 .tech 为 EdgeOne 全球 CDN，海外 runner 实测可达；备选接入点 .org
+          # AI 主力：DeepSeek 官方 deepseek-chat（OpenAI 兼容接口）
+          #   使用 DeepSeek 官方 API，Key 从 GitHub Secret 读取，不 commit 到代码
           # AI 备用：SiliconFlow DeepSeek-V3.2——主力连续失败时自动切换（跨服务商兜底）
           # 两个 API_KEY 都从 GitHub Secret 读（AI_API_KEY / AI_FALLBACK_API_KEY），不 commit 到代码
-          AI_BASE_URL: https://api.chatanywhere.tech/v1
+          AI_BASE_URL: https://api.deepseek.com/v1
           AI_API_KEY: ${{ secrets.AI_API_KEY }}
-          AI_MODEL: gpt-6.1-sol
+          AI_MODEL: deepseek-chat
           AI_FALLBACK_BASE_URL: https://api.siliconflow.cn/v1
           AI_FALLBACK_API_KEY: ${{ secrets.AI_FALLBACK_API_KEY }}
           AI_FALLBACK_MODEL: deepseek-ai/DeepSeek-V3.2
