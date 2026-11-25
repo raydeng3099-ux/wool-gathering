@@ -1,12 +1,122 @@
 [
   {
+    "id": "2026-mac-bundlehunt-44-app-5fb002372d",
+    "title": "2026 黑五 Mac 软件大促：BundleHunt 44 款 App 全场任选",
+    "category": "ai",
+    "source_url": "https://www.iplaysoft.com/news/6651",
+    "claim_url": "https://www.iplaysoft.com/news/6651",
+    "start_date": "2026-11-25",
+    "end_date": "2026-12-02",
+    "value": "",
+    "requirements": [],
+    "description": "来源: 异次元软件世界",
+    "tags": [
+      "blog",
+      "异次元软件世界"
+    ],
+    "discovered_at": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "status": "active",
+    "progress_pct": 12.5,
+    "total_days": 8,
+    "days_left": 7
+  },
+  {
+    "id": "racknerd-vps-9dd1f327e1",
+    "title": "RackNerd 性价比 VPS 服务器「黑五特价」促销中！终身续费同价",
+    "category": "ai",
+    "source_url": "https://www.iplaysoft.com/p/racknerd",
+    "claim_url": "https://www.iplaysoft.com/p/racknerd",
+    "start_date": "2026-11-25",
+    "end_date": "2026-12-02",
+    "value": "",
+    "requirements": [],
+    "description": "来源: 异次元软件世界",
+    "tags": [
+      "blog",
+      "异次元软件世界"
+    ],
+    "discovered_at": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "status": "active",
+    "progress_pct": 12.5,
+    "total_days": 8,
+    "days_left": 7
+  },
+  {
+    "id": "koofr-10gb-webdav-rclone-1tb-1-8966cd16c2",
+    "title": "Koofr 云存储：免费 10GB 空间，支持 WebDAV、Rclone｜终身订阅 1TB 特价129.9美元【再次】",
+    "category": "ai",
+    "source_url": "https://www.appinn.com/koofr-1tb/",
+    "claim_url": "https://www.appinn.com/koofr-1tb/",
+    "start_date": "2026-11-25",
+    "end_date": "2026-12-02",
+    "value": "",
+    "requirements": [],
+    "description": "来源: 小众软件",
+    "tags": [
+      "blog",
+      "小众软件"
+    ],
+    "discovered_at": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "status": "active",
+    "progress_pct": 12.5,
+    "total_days": 8,
+    "days_left": 7
+  },
+  {
+    "id": "parallels-desktop-27-249-mac-5e062cc31a",
+    "title": "Parallels Desktop 27 最新优惠，黑五史低 249元/年，：在 Mac 上运行多个操作系统",
+    "category": "ai",
+    "source_url": "https://www.appinn.com/parallels-desktop-27/",
+    "claim_url": "https://www.appinn.com/parallels-desktop-27/",
+    "start_date": "2026-11-25",
+    "end_date": "2026-12-02",
+    "value": "",
+    "requirements": [],
+    "description": "来源: 小众软件",
+    "tags": [
+      "blog",
+      "小众软件"
+    ],
+    "discovered_at": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "status": "active",
+    "progress_pct": 12.5,
+    "total_days": 8,
+    "days_left": 7
+  },
+  {
+    "id": "racknerd-2026-15-98-vps-2026-1-7d5d343632",
+    "title": "RackNerd 2026 黑五特价 15.98 刀/年，高性价比（廉价）VPS 提供商，支持支付宝、银联卡[2026.11.22]",
+    "category": "ai",
+    "source_url": "https://www.appinn.com/racknerd-cheap-vps-latest-deals/",
+    "claim_url": "https://www.appinn.com/racknerd-cheap-vps-latest-deals/",
+    "start_date": "2026-11-25",
+    "end_date": "2026-12-02",
+    "value": "",
+    "requirements": [],
+    "description": "来源: 小众软件",
+    "tags": [
+      "blog",
+      "小众软件"
+    ],
+    "discovered_at": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "status": "active",
+    "progress_pct": 12.5,
+    "total_days": 8,
+    "days_left": 7
+  },
+  {
     "id": "cloud_21e1f5e207cc",
     "title": "华为云·免费试用",
     "category": "ai",
     "source_url": "https://activity.huaweicloud.com/free_test/index.html",
     "claim_url": "https://activity.huaweicloud.com/free_test/index.html",
     "start_date": "2026-10-19",
-    "end_date": "2026-12-15",
+    "end_date": "2026-12-25",
     "value": "",
     "requirements": [],
     "description": "华为云产品0元试用活动，免费试用AI、云安全、云会议等云计算产品。为用户提供免费的云服务试用机会，帮助企业和个人轻松享受云服务。",
@@ -15,11 +125,11 @@
       "免费试用"
     ],
     "discovered_at": "2026-10-19T11:37:08.835788+08:00",
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-25",
     "status": "active",
-    "progress_pct": 65.5,
-    "total_days": 58,
-    "days_left": 20
+    "progress_pct": 55.9,
+    "total_days": 68,
+    "days_left": 30
   },
   {
     "id": "cloud_b9088095b507",
@@ -28,7 +138,7 @@
     "source_url": "https://free.aliyun.com",
     "claim_url": "https://free.aliyun.com",
     "start_date": "2026-10-19",
-    "end_date": "2026-12-15",
+    "end_date": "2026-12-25",
     "value": "",
     "requirements": [],
     "description": "阿里云免费试用提供多种产品免费，包括免费云服务器、免费云存储、免费数据库以及AI试用等。飞天免费试用计划，全栈产品体验，让企业和个人轻松享受云服务。",
@@ -37,11 +147,11 @@
       "免费试用"
     ],
     "discovered_at": "2026-10-19T11:37:12.559443+08:00",
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-25",
     "status": "active",
-    "progress_pct": 65.5,
-    "total_days": 58,
-    "days_left": 20
+    "progress_pct": 55.9,
+    "total_days": 68,
+    "days_left": 30
   },
   {
     "id": "cloud_e75f23a2006f",
@@ -50,7 +160,7 @@
     "source_url": "https://activity.huaweicloud.com/member.html",
     "claim_url": "https://activity.huaweicloud.com/member.html",
     "start_date": "2026-10-19",
-    "end_date": "2026-12-15",
+    "end_date": "2026-12-25",
     "value": "",
     "requirements": [],
     "description": "老用户专属优惠页面全新升级，为您带来前所未有的超值体验！尊享Flexus云服务会员中心全新上线，畅享服务器续费9折、购买热销产品享8折、升级享7折，还有超值折扣套餐和限时特惠活动。立即登录，领取您的专属福利，助力您的业务飞跃新高度。",
@@ -59,11 +169,11 @@
       "老用户权益"
     ],
     "discovered_at": "2026-10-19T13:16:14.748266+08:00",
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-25",
     "status": "active",
-    "progress_pct": 65.5,
-    "total_days": 58,
-    "days_left": 20
+    "progress_pct": 55.9,
+    "total_days": 68,
+    "days_left": 30
   },
   {
     "id": "cloud_4d4fd319df26",
@@ -72,7 +182,7 @@
     "source_url": "https://activity.huaweicloud.com/group-purchase/index.html",
     "claim_url": "https://activity.huaweicloud.com/group-purchase/index.html",
     "start_date": "2026-10-19",
-    "end_date": "2026-12-15",
+    "end_date": "2026-12-25",
     "value": "",
     "requirements": [],
     "description": "组合购,上云场景,热销专区,弹性云服务器,ECS,云服务器,华为云上云场景专区热销场景组合折上折！业务上云推荐云服务器ECS+主机安全组合优惠价",
@@ -81,11 +191,11 @@
       "组合购"
     ],
     "discovered_at": "2026-10-19T13:16:15.804000+08:00",
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-25",
     "status": "active",
-    "progress_pct": 65.5,
-    "total_days": 58,
-    "days_left": 20
+    "progress_pct": 55.9,
+    "total_days": 68,
+    "days_left": 30
   },
   {
     "id": "cloud_3dfb1407dfbe",
@@ -94,7 +204,7 @@
     "source_url": "https://university.aliyun.com",
     "claim_url": "https://university.aliyun.com",
     "start_date": "2026-10-19",
-    "end_date": "2026-12-15",
+    "end_date": "2026-12-25",
     "value": "",
     "requirements": [],
     "description": "“云工开物”是由阿里云发起的高校用云支持计划，支持AI时代高校人才培养和科研创新。与高校合作共建人工智能通识课，为大学生送免费算力资源。",
@@ -103,11 +213,11 @@
       "高校计划"
     ],
     "discovered_at": "2026-10-19T13:16:18.485054+08:00",
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-25",
     "status": "active",
-    "progress_pct": 65.5,
-    "total_days": 58,
-    "days_left": 20
+    "progress_pct": 55.9,
+    "total_days": 68,
+    "days_left": 30
   },
   {
     "id": "cloud_5cfd79b201c8",
@@ -116,7 +226,7 @@
     "source_url": "https://www.aliyun.com/activity/new",
     "claim_url": "https://www.aliyun.com/activity/new",
     "start_date": "2026-10-19",
-    "end_date": "2026-12-15",
+    "end_date": "2026-12-25",
     "value": "",
     "requirements": [],
     "description": "Qwen3.8-Flash 首发尝鲜，个企双版本低至 39 元/月",
@@ -125,11 +235,11 @@
       "新人特惠"
     ],
     "discovered_at": "2026-10-19T13:16:22.768559+08:00",
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-25",
     "status": "active",
-    "progress_pct": 65.5,
-    "total_days": 58,
-    "days_left": 20
+    "progress_pct": 55.9,
+    "total_days": 68,
+    "days_left": 30
   },
   {
     "id": "cloud_8ff1ec8d1772",
@@ -138,7 +248,7 @@
     "claim_url": "https://workbuddy.tencent.com/",
     "description": "腾讯 WorkBuddy - AI Agent 办公新范式。AI 办公助手，支持自定义 API 中转站",
     "start_date": "2026-10-19",
-    "end_date": "2026-12-15",
+    "end_date": "2026-12-25",
     "value": "免费版",
     "category": "ai",
     "tags": [
@@ -147,11 +257,11 @@
     ],
     "status": "active",
     "discovered_at": "2026-10-19T16:30:00+08:00",
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-25",
     "requirements": [],
-    "progress_pct": 65.5,
-    "total_days": 58,
-    "days_left": 20
+    "progress_pct": 55.9,
+    "total_days": 68,
+    "days_left": 30
   },
   {
     "id": "cloud_a6638bd2c0cc",
@@ -160,7 +270,7 @@
     "source_url": "https://cloud.tencent.com/act/new",
     "claim_url": "https://cloud.tencent.com/act/new",
     "start_date": "2026-10-19",
-    "end_date": "2026-12-15",
+    "end_date": "2026-12-25",
     "value": "",
     "requirements": [],
     "description": "腾讯云推出大促优惠活动：免费领取5455元代金券礼包；4核4G服务器新客 38元/年起，支持 OpenClaw/Hermes 等热门镜像；Token Plan 低至28元/月，多种主流模型极速调用；云数据库、COS等上云必备产品，低至1折",
@@ -169,11 +279,11 @@
       "大促代金券"
     ],
     "discovered_at": "2026-10-19T16:46:02.531627+08:00",
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-25",
     "status": "active",
-    "progress_pct": 65.5,
-    "total_days": 58,
-    "days_left": 20
+    "progress_pct": 55.9,
+    "total_days": 68,
+    "days_left": 30
   },
   {
     "id": "cloud_4b7a798bd85e",
@@ -182,7 +292,7 @@
     "source_url": "https://cloud.tencent.com/act/campus",
     "claim_url": "https://cloud.tencent.com/act/campus",
     "start_date": "2026-10-19",
-    "end_date": "2026-12-15",
+    "end_date": "2026-12-25",
     "value": "",
     "requirements": [],
     "description": "云+校园计划是腾讯云为在校学生推出的专项扶持计划。该计划内容主要包括：学生云服务器+mysql数据库优惠套餐，云计算在线学习，云开发实验室…",
@@ -191,11 +301,11 @@
       "校园计划"
     ],
     "discovered_at": "2026-10-19T16:46:04.603884+08:00",
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-25",
     "status": "active",
-    "progress_pct": 65.5,
-    "total_days": 58,
-    "days_left": 20
+    "progress_pct": 55.9,
+    "total_days": 68,
+    "days_left": 30
   },
   {
     "id": "cloud_8a5fcce5d067",
@@ -204,7 +314,7 @@
     "source_url": "https://cloud.tencent.com/act/free",
     "claim_url": "https://cloud.tencent.com/act/free",
     "start_date": "2026-10-19",
-    "end_date": "2026-12-15",
+    "end_date": "2026-12-25",
     "value": "",
     "requirements": [],
     "description": "腾讯云推出了个人云产品体验馆：云服务器，云数据库，云安全等70+云产品免费试用，续费1年3.3折起….",
@@ -213,11 +323,11 @@
       "免费体验"
     ],
     "discovered_at": "2026-10-19T16:46:06.353735+08:00",
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-25",
     "status": "active",
-    "progress_pct": 65.5,
-    "total_days": 58,
-    "days_left": 20
+    "progress_pct": 55.9,
+    "total_days": 68,
+    "days_left": 30
   },
   {
     "id": "cloud_e9c81e3c3f4a",
@@ -226,7 +336,7 @@
     "source_url": "https://cloud.tencent.com/act/developer",
     "claim_url": "https://cloud.tencent.com/act/developer",
     "start_date": "2026-10-19",
-    "end_date": "2026-12-15",
+    "end_date": "2026-12-25",
     "value": "",
     "requirements": [],
     "description": "腾讯云最新活动_腾讯云促销优惠_代金券-腾讯云官网入口",
@@ -235,11 +345,11 @@
       "开发者"
     ],
     "discovered_at": "2026-10-19T16:46:07.791323+08:00",
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-25",
     "status": "active",
-    "progress_pct": 65.5,
-    "total_days": 58,
-    "days_left": 20
+    "progress_pct": 55.9,
+    "total_days": 68,
+    "days_left": 30
   },
   {
     "id": "ai-agent-5cecfcac",
@@ -974,7 +1084,7 @@
       "异次元软件世界"
     ],
     "discovered_at": "2026-10-19",
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-25",
     "status": "active",
     "progress_pct": 100,
     "total_days": null,
@@ -1106,7 +1216,7 @@
       "小众软件"
     ],
     "discovered_at": "2026-10-19",
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-25",
     "status": "active",
     "progress_pct": 100,
     "total_days": null,
@@ -1150,7 +1260,7 @@
       "小众软件"
     ],
     "discovered_at": "2026-10-19",
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-25",
     "status": "active",
     "progress_pct": 100,
     "total_days": null,
@@ -1304,7 +1414,7 @@
       "异次元软件世界"
     ],
     "discovered_at": "2026-10-30",
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-25",
     "status": "active",
     "progress_pct": 100,
     "total_days": null,
@@ -1424,7 +1534,7 @@
       "异次元软件世界"
     ],
     "discovered_at": "2026-11-07",
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-25",
     "status": "active",
     "progress_pct": 100,
     "total_days": null,
@@ -1469,6 +1579,94 @@
     ],
     "discovered_at": "2026-11-15",
     "last_seen": "2026-11-15",
+    "status": "active",
+    "progress_pct": 100,
+    "total_days": null,
+    "days_left": null
+  },
+  {
+    "id": "idm-5-mdm-bt-mac-40edf21109",
+    "title": "比 IDM 快 5 倍的平替？免费开源下载器 MDM (支持 BT 磁力/视频嗅探/跨平台Mac)",
+    "category": "open-source",
+    "source_url": "https://www.iplaysoft.com/mdm.html",
+    "claim_url": "https://www.iplaysoft.com/mdm.html",
+    "start_date": "2026-11-25",
+    "end_date": null,
+    "value": "",
+    "requirements": [],
+    "description": "来源: 异次元软件世界",
+    "tags": [
+      "blog",
+      "异次元软件世界"
+    ],
+    "discovered_at": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "status": "active",
+    "progress_pct": 100,
+    "total_days": null,
+    "days_left": null
+  },
+  {
+    "id": "ladybird-chromium-e71db829ac",
+    "title": "Ladybird（瓢虫）- 不用 Chromium，独立内核的开源浏览器：只开发网页浏览器，别的什么都不做。",
+    "category": "open-source",
+    "source_url": "https://www.appinn.com/ladybird-browser/",
+    "claim_url": "https://www.appinn.com/ladybird-browser/",
+    "start_date": "2026-11-25",
+    "end_date": null,
+    "value": "",
+    "requirements": [],
+    "description": "来源: 小众软件",
+    "tags": [
+      "blog",
+      "小众软件"
+    ],
+    "discovered_at": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "status": "active",
+    "progress_pct": 100,
+    "total_days": null,
+    "days_left": null
+  },
+  {
+    "id": "gta-6-pc-leonida-ea9102b5ed",
+    "title": "《GTA 6》已出现早期 PC 开源移植项目：Leonida",
+    "category": "open-source",
+    "source_url": "https://www.appinn.com/gta-6-pc-port-leonida/",
+    "claim_url": "https://www.appinn.com/gta-6-pc-port-leonida/",
+    "start_date": "2026-11-25",
+    "end_date": null,
+    "value": "",
+    "requirements": [],
+    "description": "来源: 小众软件",
+    "tags": [
+      "blog",
+      "小众软件"
+    ],
+    "discovered_at": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "status": "active",
+    "progress_pct": 100,
+    "total_days": null,
+    "days_left": null
+  },
+  {
+    "id": "strata-0-2-18-220b-hy4-flash-6-d6aaca2993",
+    "title": "Strata 0.2.18 新增 220B 开源大模型 Hy4-Flash，门槛上涨至 64GB 内存",
+    "category": "open-source",
+    "source_url": "https://www.appinn.com/strata-0-2-18/",
+    "claim_url": "https://www.appinn.com/strata-0-2-18/",
+    "start_date": "2026-11-25",
+    "end_date": null,
+    "value": "",
+    "requirements": [],
+    "description": "来源: 小众软件",
+    "tags": [
+      "blog",
+      "小众软件"
+    ],
+    "discovered_at": "2026-11-25",
+    "last_seen": "2026-11-25",
     "status": "active",
     "progress_pct": 100,
     "total_days": null,
@@ -1539,6 +1737,50 @@
     "progress_pct": 62.5,
     "total_days": 8,
     "days_left": 3
+  },
+  {
+    "id": "cdk-35969ad4c5",
+    "title": "实测天花板！日本原生家宽节点，用过就回不去了（附 CDK 福利）",
+    "category": "drive",
+    "source_url": "https://www.v2ex.com/t/1259712",
+    "claim_url": "https://www.v2ex.com/t/1259712",
+    "start_date": "2026-11-25",
+    "end_date": "2026-12-02",
+    "value": "",
+    "requirements": [],
+    "description": "来源: V2EX-promotions",
+    "tags": [
+      "blog",
+      "V2EX-promotions"
+    ],
+    "discovered_at": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "status": "active",
+    "progress_pct": 12.5,
+    "total_days": 8,
+    "days_left": 7
+  },
+  {
+    "id": "cdk-zooproxy-ai-ip-11548d92ab",
+    "title": "[福利 CDK] Zooproxy 上新美国 AI 优化渠道 IP，赠送动态住宅测试流量",
+    "category": "drive",
+    "source_url": "https://www.v2ex.com/t/1259670",
+    "claim_url": "https://www.v2ex.com/t/1259670",
+    "start_date": "2026-11-25",
+    "end_date": "2026-12-02",
+    "value": "",
+    "requirements": [],
+    "description": "来源: V2EX-promotions",
+    "tags": [
+      "blog",
+      "V2EX-promotions"
+    ],
+    "discovered_at": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "status": "active",
+    "progress_pct": 12.5,
+    "total_days": 8,
+    "days_left": 7
   },
   {
     "id": "lv-18-gta6-gta5-gta6-gta5-13-05cbe9d41a",
@@ -1644,7 +1886,7 @@
       "IsThereAnyDeal"
     ],
     "discovered_at": "2026-11-18",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-25",
     "status": "active",
     "progress_pct": 100,
     "total_days": 8,
@@ -1666,7 +1908,7 @@
       "itch.io"
     ],
     "discovered_at": "2026-11-18",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-25",
     "status": "active",
     "progress_pct": 100,
     "total_days": 8,
@@ -1792,7 +2034,7 @@
     "description": "Epic Games Store 限时免费 | 2026-11-19 ~ 2026-11-26",
     "tags": [],
     "discovered_at": "2026-11-15T11:43:20.180279+08:00",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "status": "active",
     "progress_pct": 87.5,
     "total_days": 8,
@@ -1902,7 +2144,7 @@
       "IsThereAnyDeal"
     ],
     "discovered_at": "2026-11-20",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-25",
     "status": "active",
     "progress_pct": 75.0,
     "total_days": 8,
@@ -1924,7 +2166,7 @@
       "itch.io"
     ],
     "discovered_at": "2026-11-20",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-25",
     "status": "active",
     "progress_pct": 75.0,
     "total_days": 8,
@@ -1968,7 +2210,7 @@
       "itch.io"
     ],
     "discovered_at": "2026-11-20",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-25",
     "status": "active",
     "progress_pct": 75.0,
     "total_days": 8,
@@ -2122,7 +2364,7 @@
       "itch.io"
     ],
     "discovered_at": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-25",
     "status": "active",
     "progress_pct": 62.5,
     "total_days": 8,
@@ -2635,6 +2877,182 @@
     "days_left": 5
   },
   {
+    "id": "itch-io-demonheart-341e5f5265",
+    "title": "[itch.io] Demonheart（限免）",
+    "category": "games",
+    "source_url": "https://rollingcrown.itch.io/demonheart",
+    "claim_url": "https://rollingcrown.itch.io/demonheart",
+    "start_date": "2026-11-25",
+    "end_date": "2026-12-02",
+    "value": "",
+    "requirements": [],
+    "description": "itch.io 限时免费: Demonheart",
+    "tags": [
+      "blog",
+      "itch.io"
+    ],
+    "discovered_at": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "status": "active",
+    "progress_pct": 12.5,
+    "total_days": 8,
+    "days_left": 7
+  },
+  {
+    "id": "itch-io-redo-56a042d273",
+    "title": "[itch.io] Redo（限免）",
+    "category": "games",
+    "source_url": "https://redo99.itch.io/redo",
+    "claim_url": "https://redo99.itch.io/redo",
+    "start_date": "2026-11-25",
+    "end_date": "2026-12-02",
+    "value": "",
+    "requirements": [],
+    "description": "itch.io 限时免费: Redo",
+    "tags": [
+      "blog",
+      "itch.io"
+    ],
+    "discovered_at": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "status": "active",
+    "progress_pct": 12.5,
+    "total_days": 8,
+    "days_left": 7
+  },
+  {
+    "id": "itch-io-swaggerfall-18184e8461",
+    "title": "[itch.io] Swaggerfall（限免）",
+    "category": "games",
+    "source_url": "https://holonaut64.itch.io/swaggerfall",
+    "claim_url": "https://holonaut64.itch.io/swaggerfall",
+    "start_date": "2026-11-25",
+    "end_date": "2026-12-02",
+    "value": "",
+    "requirements": [],
+    "description": "itch.io 限时免费: Swaggerfall",
+    "tags": [
+      "blog",
+      "itch.io"
+    ],
+    "discovered_at": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "status": "active",
+    "progress_pct": 12.5,
+    "total_days": 8,
+    "days_left": 7
+  },
+  {
+    "id": "itch-io-bamm-1ef4f5b808",
+    "title": "[itch.io] Bamm（限免）",
+    "category": "games",
+    "source_url": "https://bukmand.itch.io/bamm",
+    "claim_url": "https://bukmand.itch.io/bamm",
+    "start_date": "2026-11-25",
+    "end_date": "2026-12-02",
+    "value": "",
+    "requirements": [],
+    "description": "itch.io 限时免费: Bamm",
+    "tags": [
+      "blog",
+      "itch.io"
+    ],
+    "discovered_at": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "status": "active",
+    "progress_pct": 12.5,
+    "total_days": 8,
+    "days_left": 7
+  },
+  {
+    "id": "itch-io-amap-473c5593b8",
+    "title": "[itch.io] Amap（限免）",
+    "category": "games",
+    "source_url": "https://kaimakigames.itch.io/amap",
+    "claim_url": "https://kaimakigames.itch.io/amap",
+    "start_date": "2026-11-25",
+    "end_date": "2026-12-02",
+    "value": "",
+    "requirements": [],
+    "description": "itch.io 限时免费: Amap",
+    "tags": [
+      "blog",
+      "itch.io"
+    ],
+    "discovered_at": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "status": "active",
+    "progress_pct": 12.5,
+    "total_days": 8,
+    "days_left": 7
+  },
+  {
+    "id": "itch-io-family-secrets-1-empt-db333b3921",
+    "title": "[itch.io] Family Secrets 1 Empty Plate（限免）",
+    "category": "games",
+    "source_url": "https://badcat-games.itch.io/family-secrets-1-empty-plate",
+    "claim_url": "https://badcat-games.itch.io/family-secrets-1-empty-plate",
+    "start_date": "2026-11-25",
+    "end_date": "2026-12-02",
+    "value": "",
+    "requirements": [],
+    "description": "itch.io 限时免费: Family Secrets 1 Empty Plate",
+    "tags": [
+      "blog",
+      "itch.io"
+    ],
+    "discovered_at": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "status": "active",
+    "progress_pct": 12.5,
+    "total_days": 8,
+    "days_left": 7
+  },
+  {
+    "id": "itch-io-demonheart-hunters-fd7a28f2b8",
+    "title": "[itch.io] Demonheart Hunters（限免）",
+    "category": "games",
+    "source_url": "https://rollingcrown.itch.io/demonheart-hunters",
+    "claim_url": "https://rollingcrown.itch.io/demonheart-hunters",
+    "start_date": "2026-11-25",
+    "end_date": "2026-12-02",
+    "value": "",
+    "requirements": [],
+    "description": "itch.io 限时免费: Demonheart Hunters",
+    "tags": [
+      "blog",
+      "itch.io"
+    ],
+    "discovered_at": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "status": "active",
+    "progress_pct": 12.5,
+    "total_days": 8,
+    "days_left": 7
+  },
+  {
+    "id": "itch-io-iso2004-chapter1-b7a233ef02",
+    "title": "[itch.io] Iso2004 Chapter1（限免）",
+    "category": "games",
+    "source_url": "https://koniipinka.itch.io/iso2004-chapter1",
+    "claim_url": "https://koniipinka.itch.io/iso2004-chapter1",
+    "start_date": "2026-11-25",
+    "end_date": "2026-12-02",
+    "value": "",
+    "requirements": [],
+    "description": "itch.io 限时免费: Iso2004 Chapter1",
+    "tags": [
+      "blog",
+      "itch.io"
+    ],
+    "discovered_at": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "status": "active",
+    "progress_pct": 12.5,
+    "total_days": 8,
+    "days_left": 7
+  },
+  {
     "id": "epic-terrascape-f2be507133",
     "title": "Epic 免费游戏: TerraScape",
     "category": "games",
@@ -2647,7 +3065,7 @@
     "description": "Epic Games Store 限时免费 | 2026-11-21 ~ 2026-12-21",
     "tags": [],
     "discovered_at": "2026-11-15T11:43:20.180279+08:00",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "status": "active",
     "progress_pct": 16.1,
     "total_days": 31,
@@ -2821,7 +3239,7 @@
     "description": "Epic Games Store 限时免费 | 2026-11-27 ~ 2026-12-01",
     "tags": [],
     "discovered_at": "2026-11-24T13:18:45.211656+08:00",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "status": "upcoming",
     "progress_pct": 0,
     "total_days": 5,
@@ -2840,7 +3258,7 @@
     "description": "Epic Games Store 限时免费 | 2026-11-26 ~ 2026-12-03",
     "tags": [],
     "discovered_at": "2026-11-24T13:18:45.211565+08:00",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "status": "upcoming",
     "progress_pct": 0,
     "total_days": 8,
@@ -2859,7 +3277,7 @@
     "description": "Epic Games Store 限时免费 | 2026-12-10 ~ 2027-01-07",
     "tags": [],
     "discovered_at": "2026-10-19T11:17:11.082882+08:00",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "status": "upcoming",
     "progress_pct": 0,
     "total_days": 29,
@@ -2878,7 +3296,7 @@
     "description": "Epic Games Store 限时免费 | 2026-12-10 ~ 2027-01-07",
     "tags": [],
     "discovered_at": "2026-11-24T13:18:45.211585+08:00",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "status": "upcoming",
     "progress_pct": 0,
     "total_days": 29,

@@ -15,7 +15,7 @@
       "异次元软件世界"
     ],
     "discovered_at": "2026-10-19",
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-25",
     "status": "active"
   },
   {
@@ -129,7 +129,7 @@
       "小众软件"
     ],
     "discovered_at": "2026-10-19",
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-25",
     "status": "active"
   },
   {
@@ -167,7 +167,7 @@
       "小众软件"
     ],
     "discovered_at": "2026-10-19",
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-25",
     "status": "active"
   },
   {
@@ -300,7 +300,7 @@
       "异次元软件世界"
     ],
     "discovered_at": "2026-10-30",
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-25",
     "status": "active"
   },
   {
@@ -405,7 +405,7 @@
       "异次元软件世界"
     ],
     "discovered_at": "2026-11-07",
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-25",
     "status": "active"
   },
   {
@@ -444,6 +444,82 @@
     ],
     "discovered_at": "2026-11-15",
     "last_seen": "2026-11-15",
+    "status": "active"
+  },
+  {
+    "id": "idm-5-mdm-bt-mac-40edf21109",
+    "title": "比 IDM 快 5 倍的平替？免费开源下载器 MDM (支持 BT 磁力/视频嗅探/跨平台Mac)",
+    "category": "open-source",
+    "source_url": "https://www.iplaysoft.com/mdm.html",
+    "claim_url": "https://www.iplaysoft.com/mdm.html",
+    "start_date": "2026-11-25",
+    "end_date": null,
+    "value": "",
+    "requirements": [],
+    "description": "来源: 异次元软件世界",
+    "tags": [
+      "blog",
+      "异次元软件世界"
+    ],
+    "discovered_at": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "status": "active"
+  },
+  {
+    "id": "ladybird-chromium-e71db829ac",
+    "title": "Ladybird（瓢虫）- 不用 Chromium，独立内核的开源浏览器：只开发网页浏览器，别的什么都不做。",
+    "category": "open-source",
+    "source_url": "https://www.appinn.com/ladybird-browser/",
+    "claim_url": "https://www.appinn.com/ladybird-browser/",
+    "start_date": "2026-11-25",
+    "end_date": null,
+    "value": "",
+    "requirements": [],
+    "description": "来源: 小众软件",
+    "tags": [
+      "blog",
+      "小众软件"
+    ],
+    "discovered_at": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "status": "active"
+  },
+  {
+    "id": "gta-6-pc-leonida-ea9102b5ed",
+    "title": "《GTA 6》已出现早期 PC 开源移植项目：Leonida",
+    "category": "open-source",
+    "source_url": "https://www.appinn.com/gta-6-pc-port-leonida/",
+    "claim_url": "https://www.appinn.com/gta-6-pc-port-leonida/",
+    "start_date": "2026-11-25",
+    "end_date": null,
+    "value": "",
+    "requirements": [],
+    "description": "来源: 小众软件",
+    "tags": [
+      "blog",
+      "小众软件"
+    ],
+    "discovered_at": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "status": "active"
+  },
+  {
+    "id": "strata-0-2-18-220b-hy4-flash-6-d6aaca2993",
+    "title": "Strata 0.2.18 新增 220B 开源大模型 Hy4-Flash，门槛上涨至 64GB 内存",
+    "category": "open-source",
+    "source_url": "https://www.appinn.com/strata-0-2-18/",
+    "claim_url": "https://www.appinn.com/strata-0-2-18/",
+    "start_date": "2026-11-25",
+    "end_date": null,
+    "value": "",
+    "requirements": [],
+    "description": "来源: 小众软件",
+    "tags": [
+      "blog",
+      "小众软件"
+    ],
+    "discovered_at": "2026-11-25",
+    "last_seen": "2026-11-25",
     "status": "active"
   }
 ]

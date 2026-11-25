@@ -15,7 +15,7 @@
       "IsThereAnyDeal"
     ],
     "discovered_at": "2026-11-18",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-25",
     "status": "active"
   },
   {
@@ -34,7 +34,7 @@
       "itch.io"
     ],
     "discovered_at": "2026-11-18",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-25",
     "status": "active"
   },
   {
@@ -142,7 +142,7 @@
     "description": "Epic Games Store 限时免费 | 2026-11-19 ~ 2026-11-26",
     "tags": [],
     "discovered_at": "2026-11-15T11:43:20.180279+08:00",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "status": "active"
   },
   {
@@ -237,7 +237,7 @@
       "IsThereAnyDeal"
     ],
     "discovered_at": "2026-11-20",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-25",
     "status": "active"
   },
   {
@@ -256,7 +256,7 @@
       "itch.io"
     ],
     "discovered_at": "2026-11-20",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-25",
     "status": "active"
   },
   {
@@ -294,7 +294,7 @@
       "itch.io"
     ],
     "discovered_at": "2026-11-20",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-25",
     "status": "active"
   },
   {
@@ -427,7 +427,7 @@
       "itch.io"
     ],
     "discovered_at": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-25",
     "status": "active"
   },
   {
@@ -868,6 +868,158 @@
     "status": "active"
   },
   {
+    "id": "itch-io-demonheart-341e5f5265",
+    "title": "[itch.io] Demonheart（限免）",
+    "category": "games",
+    "source_url": "https://rollingcrown.itch.io/demonheart",
+    "claim_url": "https://rollingcrown.itch.io/demonheart",
+    "start_date": "2026-11-25",
+    "end_date": "2026-12-02",
+    "value": "",
+    "requirements": [],
+    "description": "itch.io 限时免费: Demonheart",
+    "tags": [
+      "blog",
+      "itch.io"
+    ],
+    "discovered_at": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "status": "active"
+  },
+  {
+    "id": "itch-io-redo-56a042d273",
+    "title": "[itch.io] Redo（限免）",
+    "category": "games",
+    "source_url": "https://redo99.itch.io/redo",
+    "claim_url": "https://redo99.itch.io/redo",
+    "start_date": "2026-11-25",
+    "end_date": "2026-12-02",
+    "value": "",
+    "requirements": [],
+    "description": "itch.io 限时免费: Redo",
+    "tags": [
+      "blog",
+      "itch.io"
+    ],
+    "discovered_at": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "status": "active"
+  },
+  {
+    "id": "itch-io-swaggerfall-18184e8461",
+    "title": "[itch.io] Swaggerfall（限免）",
+    "category": "games",
+    "source_url": "https://holonaut64.itch.io/swaggerfall",
+    "claim_url": "https://holonaut64.itch.io/swaggerfall",
+    "start_date": "2026-11-25",
+    "end_date": "2026-12-02",
+    "value": "",
+    "requirements": [],
+    "description": "itch.io 限时免费: Swaggerfall",
+    "tags": [
+      "blog",
+      "itch.io"
+    ],
+    "discovered_at": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "status": "active"
+  },
+  {
+    "id": "itch-io-bamm-1ef4f5b808",
+    "title": "[itch.io] Bamm（限免）",
+    "category": "games",
+    "source_url": "https://bukmand.itch.io/bamm",
+    "claim_url": "https://bukmand.itch.io/bamm",
+    "start_date": "2026-11-25",
+    "end_date": "2026-12-02",
+    "value": "",
+    "requirements": [],
+    "description": "itch.io 限时免费: Bamm",
+    "tags": [
+      "blog",
+      "itch.io"
+    ],
+    "discovered_at": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "status": "active"
+  },
+  {
+    "id": "itch-io-amap-473c5593b8",
+    "title": "[itch.io] Amap（限免）",
+    "category": "games",
+    "source_url": "https://kaimakigames.itch.io/amap",
+    "claim_url": "https://kaimakigames.itch.io/amap",
+    "start_date": "2026-11-25",
+    "end_date": "2026-12-02",
+    "value": "",
+    "requirements": [],
+    "description": "itch.io 限时免费: Amap",
+    "tags": [
+      "blog",
+      "itch.io"
+    ],
+    "discovered_at": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "status": "active"
+  },
+  {
+    "id": "itch-io-family-secrets-1-empt-db333b3921",
+    "title": "[itch.io] Family Secrets 1 Empty Plate（限免）",
+    "category": "games",
+    "source_url": "https://badcat-games.itch.io/family-secrets-1-empty-plate",
+    "claim_url": "https://badcat-games.itch.io/family-secrets-1-empty-plate",
+    "start_date": "2026-11-25",
+    "end_date": "2026-12-02",
+    "value": "",
+    "requirements": [],
+    "description": "itch.io 限时免费: Family Secrets 1 Empty Plate",
+    "tags": [
+      "blog",
+      "itch.io"
+    ],
+    "discovered_at": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "status": "active"
+  },
+  {
+    "id": "itch-io-demonheart-hunters-fd7a28f2b8",
+    "title": "[itch.io] Demonheart Hunters（限免）",
+    "category": "games",
+    "source_url": "https://rollingcrown.itch.io/demonheart-hunters",
+    "claim_url": "https://rollingcrown.itch.io/demonheart-hunters",
+    "start_date": "2026-11-25",
+    "end_date": "2026-12-02",
+    "value": "",
+    "requirements": [],
+    "description": "itch.io 限时免费: Demonheart Hunters",
+    "tags": [
+      "blog",
+      "itch.io"
+    ],
+    "discovered_at": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "status": "active"
+  },
+  {
+    "id": "itch-io-iso2004-chapter1-b7a233ef02",
+    "title": "[itch.io] Iso2004 Chapter1（限免）",
+    "category": "games",
+    "source_url": "https://koniipinka.itch.io/iso2004-chapter1",
+    "claim_url": "https://koniipinka.itch.io/iso2004-chapter1",
+    "start_date": "2026-11-25",
+    "end_date": "2026-12-02",
+    "value": "",
+    "requirements": [],
+    "description": "itch.io 限时免费: Iso2004 Chapter1",
+    "tags": [
+      "blog",
+      "itch.io"
+    ],
+    "discovered_at": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "status": "active"
+  },
+  {
     "id": "epic-terrascape-f2be507133",
     "title": "Epic 免费游戏: TerraScape",
     "category": "games",
@@ -880,7 +1032,7 @@
     "description": "Epic Games Store 限时免费 | 2026-11-21 ~ 2026-12-21",
     "tags": [],
     "discovered_at": "2026-11-15T11:43:20.180279+08:00",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "status": "active"
   },
   {
@@ -1030,7 +1182,7 @@
     "description": "Epic Games Store 限时免费 | 2026-11-27 ~ 2026-12-01",
     "tags": [],
     "discovered_at": "2026-11-24T13:18:45.211656+08:00",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "status": "upcoming"
   },
   {
@@ -1046,7 +1198,7 @@
     "description": "Epic Games Store 限时免费 | 2026-11-26 ~ 2026-12-03",
     "tags": [],
     "discovered_at": "2026-11-24T13:18:45.211565+08:00",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "status": "upcoming"
   },
   {
@@ -1062,7 +1214,7 @@
     "description": "Epic Games Store 限时免费 | 2026-12-10 ~ 2027-01-07",
     "tags": [],
     "discovered_at": "2026-10-19T11:17:11.082882+08:00",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "status": "upcoming"
   },
   {
@@ -1078,7 +1230,7 @@
     "description": "Epic Games Store 限时免费 | 2026-12-10 ~ 2027-01-07",
     "tags": [],
     "discovered_at": "2026-11-24T13:18:45.211585+08:00",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "status": "upcoming"
   }
 ]
